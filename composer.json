@@ -1,0 +1,18 @@
+{
+    "name": "zdjmac-pro/test",
+    "description": "trytry",
+    "type": "library",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "小正",
+            "email": "352497398@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"psr-4":{
+		"Siam":"src/siam"
+		}
+	}
+}
